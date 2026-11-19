@@ -1,0 +1,161 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'top:top_inst|clk_div:CLK_DIV|out_reg'
+Slack : -37.111
+TNS   : -770.287
+
+Type  : Slow 1200mV 85C Model Setup 'CLOCK_50'
+Slack : -3.360
+TNS   : -132.112
+
+Type  : Slow 1200mV 85C Model Setup 'top:top_inst|cpu:CPU|state.EF'
+Slack : -1.222
+TNS   : -16.847
+
+Type  : Slow 1200mV 85C Model Hold 'top:top_inst|clk_div:CLK_DIV|out_reg'
+Slack : -0.297
+TNS   : -1.003
+
+Type  : Slow 1200mV 85C Model Hold 'CLOCK_50'
+Slack : -0.081
+TNS   : -0.081
+
+Type  : Slow 1200mV 85C Model Hold 'top:top_inst|cpu:CPU|state.EF'
+Slack : 0.770
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'CLOCK_50'
+Slack : -1.738
+TNS   : -113.946
+
+Type  : Slow 1200mV 85C Model Recovery 'top:top_inst|clk_div:CLK_DIV|out_reg'
+Slack : -1.346
+TNS   : -193.051
+
+Type  : Slow 1200mV 85C Model Removal 'top:top_inst|clk_div:CLK_DIV|out_reg'
+Slack : 1.252
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'CLOCK_50'
+Slack : 1.861
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -3.000
+TNS   : -91.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'top:top_inst|clk_div:CLK_DIV|out_reg'
+Slack : -2.484
+TNS   : -221.440
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'top:top_inst|cpu:CPU|state.EF'
+Slack : 0.392
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'top:top_inst|clk_div:CLK_DIV|out_reg'
+Slack : -33.035
+TNS   : -675.128
+
+Type  : Slow 1200mV 0C Model Setup 'CLOCK_50'
+Slack : -2.932
+TNS   : -110.122
+
+Type  : Slow 1200mV 0C Model Setup 'top:top_inst|cpu:CPU|state.EF'
+Slack : -1.073
+TNS   : -14.908
+
+Type  : Slow 1200mV 0C Model Hold 'top:top_inst|clk_div:CLK_DIV|out_reg'
+Slack : -0.224
+TNS   : -0.733
+
+Type  : Slow 1200mV 0C Model Hold 'CLOCK_50'
+Slack : -0.072
+TNS   : -0.072
+
+Type  : Slow 1200mV 0C Model Hold 'top:top_inst|cpu:CPU|state.EF'
+Slack : 0.789
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'CLOCK_50'
+Slack : -1.424
+TNS   : -91.702
+
+Type  : Slow 1200mV 0C Model Recovery 'top:top_inst|clk_div:CLK_DIV|out_reg'
+Slack : -1.117
+TNS   : -155.926
+
+Type  : Slow 1200mV 0C Model Removal 'top:top_inst|clk_div:CLK_DIV|out_reg'
+Slack : 1.139
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'CLOCK_50'
+Slack : 1.656
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -3.000
+TNS   : -91.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'top:top_inst|clk_div:CLK_DIV|out_reg'
+Slack : -2.484
+TNS   : -221.440
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'top:top_inst|cpu:CPU|state.EF'
+Slack : 0.431
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'top:top_inst|clk_div:CLK_DIV|out_reg'
+Slack : -20.361
+TNS   : -358.082
+
+Type  : Fast 1200mV 0C Model Setup 'CLOCK_50'
+Slack : -1.401
+TNS   : -40.561
+
+Type  : Fast 1200mV 0C Model Setup 'top:top_inst|cpu:CPU|state.EF'
+Slack : -0.397
+TNS   : -4.706
+
+Type  : Fast 1200mV 0C Model Hold 'top:top_inst|clk_div:CLK_DIV|out_reg'
+Slack : -0.172
+TNS   : -0.795
+
+Type  : Fast 1200mV 0C Model Hold 'CLOCK_50'
+Slack : -0.065
+TNS   : -0.065
+
+Type  : Fast 1200mV 0C Model Hold 'top:top_inst|cpu:CPU|state.EF'
+Slack : 0.545
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'CLOCK_50'
+Slack : -0.612
+TNS   : -36.301
+
+Type  : Fast 1200mV 0C Model Recovery 'top:top_inst|clk_div:CLK_DIV|out_reg'
+Slack : -0.332
+TNS   : -37.195
+
+Type  : Fast 1200mV 0C Model Removal 'top:top_inst|clk_div:CLK_DIV|out_reg'
+Slack : 0.667
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'CLOCK_50'
+Slack : 1.078
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -3.000
+TNS   : -119.689
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'top:top_inst|clk_div:CLK_DIV|out_reg'
+Slack : -1.000
+TNS   : -193.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'top:top_inst|cpu:CPU|state.EF'
+Slack : 0.372
+TNS   : 0.000
+
+------------------------------------------------------------
